@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on hacktk blog</title>
+    <link>https://hacktk.github.io/blog/</link>
+    <description>Recent content in Blogs on hacktk blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>hacktk3@gmail.com (hacktk)</managingEditor>
+    <webMaster>hacktk3@gmail.com (hacktk)</webMaster>
+    <lastBuildDate>Sun, 27 Jan 2019 00:23:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://hacktk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial Test</title>
+      <link>https://hacktk.github.io/2019/01/27/initial-test/</link>
+      <pubDate>Sun, 27 Jan 2019 00:23:38 +0900</pubDate>
+      <author>hacktk3@gmail.com (hacktk)</author>
+      <guid>https://hacktk.github.io/2019/01/27/initial-test/</guid>
+      <description>これはテストだよ</description>
+    </item>
+    
+  </channel>
+</rss>

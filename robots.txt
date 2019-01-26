@@ -1,0 +1,9 @@
+User-agent: *
+
+
+Disallow: /2019/01/27/initial-test/
+
+Disallow: /blog/
+
+Disallow: /
+
