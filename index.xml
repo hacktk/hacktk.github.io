@@ -8,18 +8,18 @@
     <language>ja</language>
     <managingEditor>hacktk3@gmail.com (hacktk)</managingEditor>
     <webMaster>hacktk3@gmail.com (hacktk)</webMaster>
-    <lastBuildDate>Sun, 27 Jan 2019 00:24:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 16:34:51 +0900</lastBuildDate>
     
 	<atom:link href="https://hacktk.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Initial Test</title>
-      <link>https://hacktk.net/2019/01/27/initial-test/</link>
-      <pubDate>Sun, 27 Jan 2019 00:24:38 +0900</pubDate>
+      <title>技術ブログ始めました</title>
+      <link>https://hacktk.net/2019/01/27/blog-open/</link>
+      <pubDate>Sun, 27 Jan 2019 16:34:51 +0900</pubDate>
       <author>hacktk3@gmail.com (hacktk)</author>
-      <guid>https://hacktk.net/2019/01/27/initial-test/</guid>
-      <description>これはテストだよ</description>
+      <guid>https://hacktk.net/2019/01/27/blog-open/</guid>
+      <description>はてなブログから移行した。 とはいっても今までそんなに書いていなかったので、あちらは趣味用として残す。 このブログは Hugo で生成して GitHub Pages で公開してい</description>
     </item>
     
   </channel>
