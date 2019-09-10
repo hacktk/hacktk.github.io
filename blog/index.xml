@@ -8,10 +8,19 @@
     <language>ja</language>
     <managingEditor>hacktk3@gmail.com (hacktk)</managingEditor>
     <webMaster>hacktk3@gmail.com (hacktk)</webMaster>
-    <lastBuildDate>Sun, 27 Jan 2019 16:34:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 17:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://hacktk.net/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Audacityで複数のmp3ファイルをMixしてPodcastをつくる手順</title>
+      <link>https://hacktk.net/2019/09/09/audacity-mix-podcast/</link>
+      <pubDate>Mon, 09 Sep 2019 17:00:00 +0900</pubDate>
+      <author>hacktk3@gmail.com (hacktk)</author>
+      <guid>https://hacktk.net/2019/09/09/audacity-mix-podcast/</guid>
+      <description>前提 手元に複数のmp3ファイルがあり、それらをMixして1つのmp3ファイルにする作業の手順です 音源は音楽ではなく人の会話です 環境は macOS(Mojave), Audacity 2.3.2 で</description>
+    </item>
     
     <item>
       <title>技術ブログ始めました</title>
