@@ -20,6 +20,9 @@ ul,
 ol {
   margin-left: 1.8rem;
 }
+li {
+  margin: 0.4rem 0;
+}
 pre,
 code {
   font-family: consolas, "Courier New", monospace;
